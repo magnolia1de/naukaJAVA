@@ -22,7 +22,7 @@ public class CzyDorosly {
         return age >=18;
     }
 
-    //temperatura
+    //temperatura czyCieplo
     public static boolean czyCieplo(int teperatura) {
         return teperatura >= 20;
     }
