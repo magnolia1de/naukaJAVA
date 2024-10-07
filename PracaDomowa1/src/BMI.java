@@ -10,10 +10,10 @@ public class BMI {
 //        komunikat jestes za gruby.
 
         Scanner scanner = new Scanner(System.in);
-        System.out.printf("Ile ważysz w kg?");
-        int waga = scanner.nextInt();
-        System.out.printf("Ile masz wzrostu w cm?");
-        int wzrost = scanner.nextInt();
+        System.out.printf("Ile ważysz w kg? ");
+        float waga = scanner.nextInt();
+        System.out.printf("Ile masz wzrostu w cm? ");
+        float wzrost = scanner.nextInt();
 
         float naMetry = wzrost / 100;
 //        System.out.println("na metry: " + naMetry);

@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
+        obliczTabliczkeMnozenia();
+    }
+
+    private static void obliczTabliczkeMnozenia() {
         int liczba = 1;
         for (int j = 0; liczba <= 10; j++) {
             System.out.println("Mnożenie liczby " + liczba);
