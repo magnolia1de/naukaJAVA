@@ -1,9 +1,11 @@
+package PlikiJava;
+
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Main {
+public class PlikiJava {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj nazwę pliku jaki chcesz znaleźć (razem z rozszerzeniem)");

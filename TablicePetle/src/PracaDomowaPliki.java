@@ -1,4 +1,6 @@
-public class Main {
+package TablicePetle.src;
+
+public class PracaDomowaPliki {
     public static void main(String[] args) {
 
         int[] liczby = {2, 7, 9, 8};

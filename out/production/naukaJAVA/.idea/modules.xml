@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lekcja7/Lekcja7.iml" filepath="$PROJECT_DIR$/Lekcja7/Lekcja7.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracaDomowa1/PracaDomowa1.iml" filepath="$PROJECT_DIR$/PracaDomowa1/PracaDomowa1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracaDomowa2/PracaDomowa2.iml" filepath="$PROJECT_DIR$/PracaDomowa2/PracaDomowa2.iml" />
       <module fileurl="file://$PROJECT_DIR$/naukaJAVA.iml" filepath="$PROJECT_DIR$/naukaJAVA.iml" />
     </modules>
   </component>
